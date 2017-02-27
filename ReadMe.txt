@@ -1,8 +1,3 @@
-Team Members:
--------------
-Badhri Narayanan Krishnakumar - bkrish5 - 651726642
-Mukund Subakanthan - msubak2 - 677763657
-
 Instruction to run the code:
 ----------------------------
 0. Make sure Python 3 is installed.
